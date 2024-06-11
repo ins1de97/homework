@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    border: 1px solid #000;
+    height: 700px;
+    border-radius: 30px 0 0 30px;
+    background: #eaeaea;
+    max-width: 1440px;
+
+    overflow: auto;
+}
+
+.card {
+    background: #e0a77892;
+    border: 1px solid #000;
+    border-radius: 30px;
+    width: 300px;
+    margin: 10px 5px;
+    padding: 20px 25px;
+    display: inline-block;
+    box-shadow: inset 0px 0px 10px #000;
+}
+
+h2 {
+    font-size: 30px;
+}
